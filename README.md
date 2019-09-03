@@ -3,4 +3,4 @@
 
 Added jupyter notebook
 
-Added Kaggle upload file
+Added Kaggle upload file 'sub.csv'
